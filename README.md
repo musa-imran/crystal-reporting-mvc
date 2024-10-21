@@ -1,2 +1,1 @@
-# crystal-reporting-mvc
-Crystal Reporting Controls in ASP.NET MVC Framework
+# Crystal Reporting Implementation in ASP.NET MVC Framework
