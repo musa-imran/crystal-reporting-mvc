@@ -20,4 +20,9 @@ Make sure you have the following installed before getting started:
 - **Crystal Reports for Visual Studio** (download from [SAP's website](https://www.sap.com/products/crystal-reports.html))
 - **.NET Framework** 4.x (if using .NET Framework)
 
+
 ## Screenshots
+![1](https://github.com/user-attachments/assets/da006c64-c924-4473-99f9-0454c1f070f3)
+![2](https://github.com/user-attachments/assets/7da56a6f-e03d-45a7-b368-cd382dffd03d)
+![3](https://github.com/user-attachments/assets/4b46b97b-be74-4d51-bc53-d597b81920f2)
+![4](https://github.com/user-attachments/assets/a92b5882-9a5c-4523-a48a-1d0715ad9e03)
