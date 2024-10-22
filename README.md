@@ -12,7 +12,6 @@ This project demonstrates how to integrate **Crystal Reports** into an **ASP.NET
 - Integration with **SQL Server** for retrieving report data.
 
 ## Prerequisites
-
 Make sure you have the following installed before getting started:
 
 - **Visual Studio** (with ASP.NET workload)
@@ -21,10 +20,4 @@ Make sure you have the following installed before getting started:
 - **Crystal Reports for Visual Studio** (download from [SAP's website](https://www.sap.com/products/crystal-reports.html))
 - **.NET Framework** 4.x (if using .NET Framework)
 
-## Getting Started
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/your-username/crystal-reports-mvc.git
-cd crystal-reports-mvc
+## Screenshots
